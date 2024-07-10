@@ -2,6 +2,7 @@
 JDCSOL-14  GROUP 1** 
 
 **PENDAHULUAN**
+
 Perusahaan Amazon Web Services adalah sebuah perusahaan yang menjual Sales & Marketing Software (Software as a Service/SaaS) ke Perusahaan lain yang memungkinkan Perusahaan untuk menyediakan penawaran mereka kepada pelanggan dengan cara yang mudah dan terpusat pada layanan. AWS bekerja sama dengan Perusahaan untuk membangun model SaaS yang menetapkan kelincahan dan efisiensi operasional sebagai pilar strategi bisnis mereka serta mendorong pertumbuhan, jangkauan dan inovasi.
 
 **PERNYATAAN MASALAH**
